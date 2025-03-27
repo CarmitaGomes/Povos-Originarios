@@ -64,7 +64,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: c5e09631c565f451894032663193dff2, type: 3}
+        m_Texture: {fileID: 2800000, guid: cf2c8a440fe0c47f393bf2961851b92f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 1}
     - _MetallicGlossMap:
@@ -89,7 +89,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AtmosphereDensity: 5
+    - _AtmosphereDensity: 3.32
     - _AtmosphereStrength: 4.88
     - _BumpScale: 5
     - _CityLightIntensity: 0.4
@@ -123,7 +123,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _AtmosphereColor: {r: 0.51427335, g: 0.6587051, b: 0.85294116, a: 1}
+    - _AtmosphereColor: {r: 0, g: 0.15246147, b: 0.3584906, a: 1}
     - _CityLightColor: {r: 1, g: 1, b: 1, a: 1}
     - _CloudColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
