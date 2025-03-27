@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 42694
+  controlID: 3985
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 42695
+  controlID: 3986
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 42696
+  controlID: 3987
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -237,9 +237,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a083fdff
-      m_LastClickedID: -162912
-      m_ExpandedIDs: 1c84fdff8ccdfdffea2cfeffbe63feff648ffeff8498feffdedbfeff64defeffdc33ffffde33ffff6834ffffdee7ffff18f2ffffa0f3fffffa5e0000405f00001e630000b4730000fc7300001a740000
+      m_SelectedIDs: b45a0000
+      m_LastClickedID: 23220
+      m_ExpandedIDs: 22eeffff2cfbffffd45a0000e45a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -255,7 +255,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 5}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -960,7 +960,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/AHProxy/PlanetShader/DemoScene/Textures/Earth
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -968,16 +968,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 34
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/AHProxy/PlanetShader/DemoScene/Textures/Earth
   m_LastFoldersGridSize: 34
   m_LastProjectPath: "/Users/evadina/Projects/Povos-Originarios/Povos Origin\xE1rios"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 130}
-    m_SelectedIDs: 845b0000
-    m_LastClickedID: 23428
-    m_ExpandedIDs: 000000007a5b0000ba5b0000be5b0000d25b00001c9a000000ca9a3b
+    m_SelectedIDs: 2a5d0000
+    m_LastClickedID: 23850
+    m_ExpandedIDs: 00000000be5c0000c05c0000c25c0000c45c0000c65c0000065d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1005,7 +1005,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007a5b0000ba5b0000be5b0000d25b00001c9a000000ca9a3b
+    m_ExpandedIDs: 00000000be5c0000c05c0000c25c0000c45c0000c65c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1030,8 +1030,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: a083fdff
-    m_LastClickedInstanceID: -162912
+    m_SelectedInstanceIDs: b45a0000
+    m_LastClickedInstanceID: 23220
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000e07a0000de0200000000000014110100fed30000
     m_RenameOverlay:
@@ -1313,7 +1313,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -162912
+  m_LastSelectedObjectID: 23220
 --- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1377,8 +1377,9 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
     m_OverlaysVisible: 1
-  m_ObjectsLockedBeforeSerialization: []
-  m_InstanceIDsLockedBeforeSerialization: 
+  m_ObjectsLockedBeforeSerialization:
+  - {fileID: 0}
+  m_InstanceIDsLockedBeforeSerialization: b45a0000
   m_PreviewResizer:
     m_CachedPref: 441
     m_ControlHash: -371814159
@@ -1388,7 +1389,7 @@ MonoBehaviour:
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
-    m_IsLocked: 0
+    m_IsLocked: 1
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &18
 MonoBehaviour:
